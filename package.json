@@ -23,10 +23,5 @@
   },
   "engines": {
     "node": ">= 12.11"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/DimensionDev",
-    "access": "public",
-    "tag": "unstable"
   }
 }
