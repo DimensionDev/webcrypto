@@ -1,0 +1,9 @@
+/.editorconfig
+/.eslintignore
+/.eslintrc.js
+/.github/
+/.gitmodules
+/.travis.yml
+/CODE_OF_CONDUCT.md
+/scripts
+/test

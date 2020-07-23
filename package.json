@@ -1,6 +1,6 @@
 {
   "name": "@dimensiondev/webcrypto",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "bugs": "https://github.com/nodejs/webcrypto/issues",
   "repository": {
     "type": "git",
